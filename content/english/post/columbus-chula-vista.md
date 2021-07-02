@@ -8,6 +8,7 @@ photo_credits = "Nelvin C. Cepeda/San Diego Union-Tribune"
 photo_source_url = "https://www.latimes.com/california/story/2020-06-12/chula-vista-christopher-columbus-statue-storage-protest"
 categories = [ "colonizers" ]
 tags = ["municipal-action"]
+subjects = ["Christopher Columbus"]
 weight = 1
 +++
 
@@ -20,6 +21,8 @@ The statue of Christopher Columbus in Chula Vista's Discovery Park was removed t
 The statue had been the target of vandalism on prior occasions, including on "Columbus Day" in 2019[^3] and in February of that same year.[^4]
 
 Christopher Columbus played an instrumental role in, among other crimes, the genocide of the Taíno and Arawak people.[^5]
+
+#### References
 
 [^1]: [Chula Vista puts Christopher Columbus statue in storage citing ‘public safety concerns’](https://www.latimes.com/california/story/2020-06-12/chula-vista-christopher-columbus-statue-storage-protest)
 

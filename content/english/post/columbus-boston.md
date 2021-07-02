@@ -8,6 +8,7 @@ photo_credits = "Kerri Colorado"
 photo_source_url = "https://whdh.com/news/bostons-beheaded-columbus-statue-removed-as-officials-re-evaluate-its-historic-meaning/"
 categories = [ "colonizers" ]
 tags = ["municipal-action"]
+subjects = ["Christopher Columbus"]
 weight = 1
 +++
 
@@ -20,6 +21,8 @@ The statue of Christopher Columbus in Boston's North End was beheaded by an unkn
 This was not the first time the Columbus statue was vandalized. In 2015, the statue was painted red and the base was adorned with the words, "Black Lives Matter."[^3] In 2002 and 2006, the statue was beheaded, and it was vandalized with paint several times during the 2000s.[^4]
 
 Christopher Columbus played an instrumental role in, among other crimes, the genocide of the Taíno and Arawak people.[^5]
+
+#### References
 
 [^1]: [Christopher Columbus statue in Boston beheaded](https://www.cbsnews.com/news/christopher-columbus-statue-boston-beheaded-confederate-monuments-torn-down/)
 

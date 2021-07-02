@@ -23,9 +23,11 @@ At the top of this page, click [Issues](https://github.com/Gorcenski/whentheycam
 
 In the textbox that appears, go ahead and enter your content, paste any links, whatever. I'll convert it into the required format to publish.
 
+This [blog post](https://scholarslab.lib.virginia.edu/blog/participating-in-statue-removal-history-crowdsourcing/) goes into further detail about how to get involved if you're not comfortable with GitHub yet.
+
 ### I am confident with Github and writing markdown
 
-Add a markdown post under `content/post`. Use previous posts as an example. For post date, try to get, as near as possible, the date and time the memorial was removed. Add photo credits, and try to provide many references, where possible.
+Add a markdown post under `content/post`. Copy template.md and use previous posts as an example. For post date, try to get, as near as possible, the date and time the memorial was removed. Add photo credits, and try to provide many references, where possible.
 
 Images go in `static/img`.
 
@@ -38,4 +40,4 @@ For example, to translate the Christopher Columbus in Richmond post, copy `conte
 If the language is not supported, e.g. German, then create `content/deutsch/post/columbus-rva.md` and translate the post. Then, update the `config.toml` file in the root directory to add deutsch support.
 
 ### Categories and tags
-The categories inside each post can include one or more of the following: `["colonizers", "confederates", "racists", "rapists", "slavers", "war-criminals"]` and the following tags can include one or more of the following: `["municipal-action", "renaming", "direct-action", "private-action"]`. Other tags and categories can be added, but first raise an issue about it.
+The categories inside each post can include one or more of the following: `["colonizers", "confederates", "racists", "rapists", "slavers", "war-criminals"]` and the following tags can include one or more of the following: `["municipal-action", "renaming", "direct-action", "private-action"]`. Other tags and categories can be added, but first raise an issue about it.  You should also set the subjects field as an array containing the name of the person or persons depicted by the statue.

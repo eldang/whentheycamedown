@@ -1,11 +1,13 @@
-baseURL = "https://whentheycamedown.com"
+baseURL = "https://www.whentheycamedown.com"
 languageCode = "en"
 title = "whentheycamedown"
 theme = "hugo-nederburg-theme"
+defaultContentLanguage = "en"
 
 [taxonomies]
    tag = "tags"
    category = "categories"
+   subject = "subjects"
 
 [languages]
   [languages.en]
@@ -25,18 +27,23 @@ weight = 1
 url = "/about/"
 name = "About"
 weight = 2
-# [[languages.en.menu.main]]
-# url = "/es/"
-# name = "Español"
-# weight = 2
+[[languages.en.menu.main]]
+url = "/es/"
+name = "Español"
+weight = 3
 [[languages.es.menu.main]]
 url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
 name = "Contribuir"
 weight = 1
 [[languages.es.menu.main]]
+url = "/about/"
+name = "Acerca"
+weight = 2
+[[languages.es.menu.main]]
 url = "/"
 name = "English"
-weight = 2
+weight = 3
+
 # [[menu.main]]
 # url = "/tags"
 # name = "Tags"
